@@ -1,0 +1,107 @@
+
+.principal
+{
+    background-image: linear-gradient(to bottom right,#009cde,white);
+}
+
+#menu
+{
+    display: block;
+    position:relative;
+    padding: 5px;
+    background-color: #0079d2;
+}
+
+.portada
+{
+    position: relative;
+
+}
+.imgPortada
+{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 200px;
+    background-image: url('../res/flower-on-blue-background_23-2147628615.jpg');
+}
+
+.imgLogo
+{
+    position: relative;
+    width: 100%;
+    height: 200px;
+    background-image: url('../res/Logo.png');
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: left; 
+}
+
+
+.parrafo_texto
+{
+    text-align: center;
+
+}
+
+a
+{
+    color:white;
+  cursor: pointer;
+  text-decoration:none;
+}
+.cont_opciones_menu
+{
+  margin:0 auto;
+  text-align: center;
+}
+ .opc_menu
+ {
+     display:inline-block;
+     padding: 5px;
+     font-size: 10px;
+ }
+
+
+
+ #base
+ {
+     position: relative;
+     
+     padding: 20px;
+  }
+
+ #pie
+ {
+     padding: 20px;
+     background-image: url('../res/Footer\ Background.png');
+     background-size:     100% 100px;                      /* <------ */
+     background-repeat:   no-repeat;
+     background-position: bottom;   
+ }
+ .imagenPagina
+ {
+     position: relative;
+     background-color: blue;
+ }
+
+ .grupo_Servicio
+ {
+     padding: 30px;
+     text-align: center;
+ }
+ .cont_Img_Social
+ {
+     text-align: center;
+ }
+ .grupo_Servicio img
+ {
+    width: 50%;
+    margin:10px;
+ }
+ .imgSocial
+ {
+     width: 40px;
+     text-align: center;
+     margin: 0 auto;
+ }

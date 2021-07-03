@@ -1,0 +1,33 @@
+img{
+	width:350px;
+	margin-top: 50px;
+	margin-left: 150 px;
+
+}
+
+li
+{
+	float:left;
+    list-style: none;
+    padding: 10px;
+}
+
+nav
+{
+	float:right;
+	margin-top: 60px;
+	margin-right: 150px;
+    background-color: blue;
+}
+a
+{
+	text-decoration: none;
+     font-family:initial;
+     color:aliceblue;
+
+
+}
+li hover a
+{
+	color:green;
+}

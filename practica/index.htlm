@@ -1,0 +1,843 @@
+<<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+	<meta charset="UTF-8">
+
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+						<link rel="icon" type="image/png" href="//www.ospasalon.com.mx/wp-content/uploads/2016/06/favicon.png">
+			
+	<title>O.SPA.SALÓN &#8211; DATE UN MOMENTO.</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="O.SPA.SALÓN &raquo; Feed" href="http://www.ospasalon.com.mx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="O.SPA.SALÓN &raquo; RSS de los comentarios" href="http://www.ospasalon.com.mx/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.ospasalon.com.mx\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.ospasalon.com.mx/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.ospasalon.com.mx/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.5.3' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='fw-ext-builder-frontend-grid-css'  href='http://www.ospasalon.com.mx/wp-content/plugins/unyson/framework/extensions/builder/static/css/frontend-grid.css?ver=1.2.10' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-ext-forms-default-styles-css'  href='http://www.ospasalon.com.mx/wp-content/plugins/unyson/framework/extensions/forms/static/css/frontend.css?ver=2.7.12' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.ospasalon.com.mx/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/font-awesome.min.css?ver=2.7.12' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/bootstrap.min.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/animate.min.css?ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/slick.css?ver=1.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-icons-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/simple-line-icons.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-icons-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/themify-icons.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pixeden-icons-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/pe-icon-7-stroke.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='lightcase-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/lightcase.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jssocials-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/jssocials.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='simpleselect-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/jquery.simpleselect.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jevelin-shortcodes-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jevelin-styles-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jevelin-responsive-css'  href='http://www.ospasalon.com.mx/wp-content/themes/jevelin/css/responsive.css?ver=1.0' type='text/css' media='all' />
+<style id='jevelin-responsive-inline-css' type='text/css'>
+.sh-tabs-filter li a,.woocommerce .woocommerce-tabs li:not(.active) a,.woocommerce .product .posted_in a,.woocommerce .product .tagged_as a,.woocommerce .product .woocommerce-review-link,.woocommerce-checkout #payment div.payment_box,.sh-default-color a,.sh-default-color,.post-meta-two a,#sidebar a,.logged-in-as a ,.post-meta-author a,.sh-social-share-networks .jssocials-share i,.sh-header-left-side .sh-header-copyrights-text a,.wpcf7-form-control-wrap .simpleselect {color: #8d8d8d!important;}.woocommerce nav.woocommerce-pagination ul.page-numbers a {color: #8d8d8d;}html body,html .menu-item a {font-family: "Helvetica"; color: #8d8d8d; font-size: 13px; }.woocommerce ul.products li.product a h3:hover,.woocommerce ul.products li.product ins,.post-title h2:hover,.sh-team:hover .sh-team-role,.sh-team-style4 .sh-team-role,.sh-team-style4 .sh-team-icon:hover i,.sh-header-search-submit,.woocommerce .woocommerce-tabs li.active a,.woocommerce .required,.sh-recent-products .woocommerce .star-rating span::before,.woocommerce .woocomerce-styling .star-rating span::before,.woocommerce div.product p.price,.woocomerce-styling li.product .amount, .post-format-icon,.sh-accent-color,.sh-blog-tag-item:hover h6,ul.page-numbers a:hover,.sh-portfolio-single-info-item i,.sh-filter-item.active,.sh-filter-item:hover,.sh-nav .sh-nav-cart li.menu-item-cart .mini_cart_item .amount,.sh-pricing-button-style3,#sidebar a:not(.sh-social-widgets-item):hover,.logged-in-as a:hover,.woocommerce table.shop_table.cart a:hover,.wrap-forms sup:before,.sh-comment-date a:hover,.reply a.comment-edit-link,.comment-respond #cancel-comment-reply-link,.sh-portfolio-title:hover,.sh-portfolio-single-related-mini h5:hover {color: #47c9e5!important;}.woocommerce p.stars.selected a:not(.active),.woocommerce p.stars.selected a.active,.sh-dropcaps-full-square,.sh-dropcaps-full-square-border {background-color: #47c9e5;}.contact-form input[type="submit"],.sh-back-to-top:hover,.sh-dropcaps-full-square-tale,.sh-404-button,.woocommerce .wc-forward,.woocommerce .checkout-button,.woocommerce div.product form.cart button,.woocommerce .button:not(.add_to_cart_button),.sh-blog-tag-item,.sh-comments .submit,.sh-sidebar-search-active .search-field,.sh-nav .sh-nav-cart .buttons a.checkout,ul.page-numbers .current,ul.page-numbers .current:hover,.post-background,.post-item .post-category .post-category-list,.cart-icon span,.comment-input-required,.widget_tag_cloud a:hover,.widget_product_tag_cloud a:hover,.woocommerce #respond input#submit,.sh-portfolio-overlay1-bar,.sh-pricing-button-style4,.sh-pricing-button-style11,.sh-revslider-button2,.sh-portfolio-default2 .sh-portfolio-title,.sh-recent-posts-widgets-count,.sh-filter-item.active:after,.blog-style-largedate .post-comments,.sh-video-player-image-play,.woocommerce .woocommerce-tabs li a:after,.sh-image-gallery .slick-dots li.slick-active button,.sh-recent-posts-carousel .slick-dots li.slick-active button,.sh-recent-products-carousel .slick-dots li.slick-active button,.sh-settings-container-bar .sh-progress-status-value,.post-password-form input[type="submit"],.wpcf7-form .wpcf7-submit,.sh-portfolio-filter-style3 .sh-filter-item.active .sh-filter-item-content {background-color: #47c9e5!important;}::selection {background-color: #47c9e5!important;color: #fff;}::-moz-selection {background-color: #47c9e5!important;color: #fff;}.woocommerce .woocommerce-tabs li.active a,.sh-header-8 .sh-nav > .current-menu-item a {border-bottom-color: #47c9e5!important;}#header-quote,.sh-dropcaps-full-square-tale:after,.sh-blog-tag-item:after,.widget_tag_cloud a:hover:after,.widget_product_tag_cloud a:hover:after {border-left-color: #47c9e5!important;}.cart-icon .cart-icon-triangle-color {border-right-color: #47c9e5!important;}.sh-back-to-top:hover,.widget_price_filter .ui-slider .ui-slider-handle,.sh-sidebar-search-active .search-field:hover,.sh-sidebar-search-active .search-field:focus {border-color: #47c9e5!important;}.post-item .post-category .arrow-right {border-left-color: #47c9e5;}.woocommerce .wc-forward:hover,.woocommerce .button:not(.add_to_cart_button):hover,.woocommerce .checkout-button:hover,.woocommerce #respond input#submit:hover,.contact-form input[type="submit"]:hover,.wpcf7-form .wpcf7-submit:hover,.sh-video-player-image-play:hover,.sh-404-button:hover,.post-password-form input[type="submit"],.sh-pricing-button-style11:hover,.sh-revslider-button2.spacing-animation:hover {background-color: #15bee4!important;}.sh-mini-overlay-container,.sh-portfolio-overlay-info-box,.sh-portfolio-overlay-bottom .sh-portfolio-icon,.sh-portfolio-overlay-bottom .sh-portfolio-text,.sh-portfolio-overlay2-bar,.sh-portfolio-overlay2-data,.sh-portfolio-overlay3-data {background-color: rgba(71,201,229,0.75)!important;}.widget_price_filter .ui-slider .ui-slider-range {background-color: rgba(71,201,229,0.5)!important;}.sh-team-social-overlay2 .sh-team-image:hover .sh-team-overlay2,.sh-overlay-style1,.sh-portfolio-overlay4 {background-color: rgba(71,201,229,0.8)!important;}a {color: #16acce;}a:hover,a:focus,.post-meta-two a:hover {color: #10a0c0;}body h1,body h2,body h3,body h4,body h5,body h6 {font-family: "Helvetica"; color: #919191; }h1 {font-size: 24px;}h2 {font-size: 21px;}h3 {font-size: 18px;}h4 {font-size: 15px;}h5 {font-size: 13px;}h6 {font-size: 12px;}.sh-progress-style1 .sh-progress-title,.sh-progress-style1 .sh-progress-value2,.sh-progress-style4 .sh-progress-title,.sh-progress-style4 .sh-progress-value2,.sh-progress-style5 .sh-progress-title,.widget_price_filter .price_slider_wrapper .price_label span,.product_list_widget a span,.woocommerce .product .woo-meta-title,.woocommerce .product .price ins,.woocommerce .product .price .amount,.woocommerce-checkout #payment ul.payment_methods li,table th,.woocommerce-checkout-review-order-table .order-total span,.sh-comment-form label,.sh-piechart-percentage,.woocommerce table.shop_table a.remove:hover:before,.woocommerce .woocommerce-tabs .commentlist .comment-text .meta strong,.sh-pricing-amount,.sh-pricing-icon,.sh-countdown > div > span,.blog-single .post-title h2:hover,.post-meta-author a:hover,.post-meta-categories a:hover,.post-meta-categories span:hover,.woocommerce table.shop_table.cart a,.wrap-forms label,.wpcf7-form p,.post-password-form label,.product_list_widget ins,.product_list_widget .amount,.sh-social-share-networks .jssocials-share:hover i,.sh-page-links p,.woocommerce ul.products li.product .add_to_cart_button:hover {color: #919191!important;}.sh-header,.sh-header-top,.sh-header-mobile,.sh-header-left-side {background-color: #fff;}.primary-desktop .sh-header-top {background-color: #065b6e!important;}.primary-desktop .header-contacts-details,.primary-desktop .header-social-media a {color: #fff;}.sh-header .sh-nav > li.menu-item > a,.sh-header-left-side .sh-nav > li.menu-item > a,.sh-nav-mobile li a {text-transform: uppercase;}.sh-header-left-1 .header-bottom,.sh-header-left-1 .header-social-media i,.sh-header-left-1 .sh-side-button-search i,.sh-header-left-1 .sh-side-button-cart .sh-nav-cart i,.sh-header-left-side .header-bottom,.sh-header-left-2 .header-social-media i {color: #a8a8a8;}.sh-header-search-close i,.sh-header .sh-nav > li.menu-item > a,.sh-header .sh-nav > li.menu-item > a > i,.sh-header-mobile-navigation li.menu-item > a > i,.sh-header-left-side li.menu-item > a,.sh-header-left-2 .sh-side-button-search, .sh-header-left-2 .sh-side-button-cart,.sh-header-left-2 .sh-side-button-cart .sh-nav-cart i,.sh-header-left-2 .sh-nav li.menu-item > a.fa:before {color: rgba(61,61,61,0.69);}.sh-header .c-hamburger span,.sh-header .c-hamburger span:before,.sh-header .c-hamburger span:after,.sh-header-mobile-navigation .c-hamburger span,.sh-header-mobile-navigation .c-hamburger span:before,.sh-header-mobile-navigation .c-hamburger span:after {background-color: rgba(61,61,61,0.69);}.sh-header .sh-nav-login #header-login > span {border-color: rgba(61,61,61,0.69);}.sh-nav > li.menu-item > a,.sh-nav-mobile li a {font-size: 12px;}.sh-header .sh-nav > li.menu-item:hover:not(.sh-nav-social) > a,.sh-header .sh-nav > li.menu-item:hover:not(.sh-nav-social) > a > i,.sh-header .sh-nav > li.sh-nav-social > a:hover > i,.sh-header-mobile-navigation li > a:hover > i,.sh-header-left-side li.menu-item > a:hover {color: rgba(61,61,61,0.80);}.sh-header .sh-nav > .current_page_item > a,.sh-header .sh-nav > .current-menu-ancestor > a,.sh-header-left-side .sh-nav > .current_page_item > a {color: #065b6e!important;}.header-logo img {height: 30px;max-height: 250px;}.sh-header-mobile-navigation .header-logo img {height: 30px;max-height: 250px;}.sh-sticky-header-active .header-logo img {height: 25px;}.sh-header-6 .sh-nav > .menu-item:not(.sh-nav-social),.sh-header-6 .sh-nav > .sh-nav-social a {height: 70px;width: 70px;}.sh-header-5 .sh-nav > .menu-item {height: 70px!important;max-height: 70px!important;}.sh-header-5 .sh-nav > .menu-item > a,.sh-header-6 .sh-nav > .menu-item > a {line-height: 70px!important;max-height: 70px!important;height: 70px!important;}.sh-header-5 .sh-nav > .current_page_item {margin-top: 15px!important;margin-bottom: 15px!important;}.sh-header,.sh-header-top-3,.sh-header-top-4,.sh-header-left-side .sh-header-search .line-test,.sh-header-left-2 .sh-nav > li > a,.sh-header-left-2 .sh-side-buttons .sh-table-cell {border-bottom: 1px solid rgba( 0,0,0,0.08 );}.sh-header-top-3 .header-contacts-item span,.sh-header-top-3 .header-social-media a,.sh-header-5 .sh-nav-login,.sh-header-5 .sh-nav-cart,.sh-header-5 .sh-nav-search,.sh-header-5 .sh-nav-social,.sh-header-5 .sh-nav-social a:not(:first-child),.sh-header-6 .sh-nav > .menu-item:not(.sh-nav-social),.sh-header-6 .sh-nav > .sh-nav-social a,.sh-header-6 .header-logo,.sh-header-left-1 .header-social-media a {border-left: 1px solid rgba( 0,0,0,0.08 );}.sh-header-top-3 .container,.sh-header-5 .sh-nav > .menu-item:last-child,.sh-header-6 .sh-nav > .menu-item:last-child,.sh-header-6 .header-logo,.sh-header-left-side,.sh-header-left-1 .sh-side-button-search,.sh-header-left-2 .sh-side-button-search {border-right: 1px solid rgba( 0,0,0,0.08 );}.sh-header-left-1 .header-social-media,.sh-header-left-1 .sh-side-buttons .sh-table-cell,.sh-header-left-2 .sh-side-buttons .sh-table-cell {border-top: 1px solid rgba( 0,0,0,0.08 );}.sh-header:not(.sh-header-6) .container,.sh-header-top:not(.sh-header-top-6) .container {width: 90%!important;max-width: 90%!important;}.sh-header-6 .container,.sh-header-top-6 .container {width: 100%!important;max-width: 100%!important;} .sh-header-right-side,.sh-header-mobile-dropdown,.header-mobile-social-media a,.sh-header .sh-nav > li.menu-item ul,.sh-header-left-side .sh-nav > li.menu-item ul,.sh-header-mobile-dropdown {background-color: #63666a!important;} .sh-nav-mobile li:after,.sh-nav-mobile ul:before {background-color: #63666a!important;} .header-mobile-social-media a i,.sh-nav-mobile li a,.sh-header .sh-nav > li.menu-item ul a,.sh-header-left-side .sh-nav > li.menu-item ul a {color: #97999b!important;}.sh-nav-mobile .current_page_item > a,.sh-nav-mobile > li a:hover,.sh-header .sh-nav ul,.sh-header .sh-nav > li.menu-item:not(.menu-item-cart) ul a:hover,.sh-header .sh-nav ul.mega-menu-row li.mega-menu-col > a,.sh-header-left-side .sh-nav ul,.sh-header-left-side .sh-nav > li.menu-item:not(.menu-item-cart) ul a:hover,.sh-header-left-side .sh-nav ul.mega-menu-row li.mega-menu-col > a,.sh-header .woocommerce a.remove:hover:before,.sh-header-left-side .woocommerce a.remove:hover:before {color: #ffffff!important;}.header-mobile-social-media,.header-mobile-social-media a,.sh-nav > li.menu-item:not(.menu-item-cart) ul a:hover {border-color: #63666a!important;}.sh-nav > li.menu-item:not(.menu-item-cart) ul a:hover,.sh-nav-cart .menu-item-cart .total {border-bottom: 1px solid #63666a!important;}.sh-nav-cart .menu-item-cart .total {border-top: 1px solid #63666a!important;}.sh-nav .mega-menu-row > li.menu-item,.sh-nav-cart .menu-item-cart .widget_shopping_cart_content p.buttons a:first-child {border-right: 1px solid #63666a!important;}#sidebar .widget-item .widget-title {color: #505050; font-size: 12px; }#sidebar .widget-item li {border-color: #e3e3e3!important;}.sh-footer {background-image: url(//www.ospasalon.com.mx/wp-content/uploads/2016/06/01.jpg);background-size: cover;background-position: 50% 50%;}.sh-footer .sh-footer-widgets {background-color: rgba(255,255,255,0.9);color: #63666a;}.sh-footer .sh-footer-widgets .sh-recent-posts-widgets-item-meta a {color: #63666a;}.sh-footer .sh-footer-widgets i:not(.icon-link),.sh-footer .sh-footer-widgets .widget_recent_entries li:before {color: #63666a!important;}.sh-footer .sh-footer-widgets h3 {color: #065b6e; font-size: 11px; }.sh-footer .sh-footer-widgets ul li,.sh-footer .sh-footer-widgets ul li,.sh-recent-posts-widgets .sh-recent-posts-widgets-item {border-color: rgba(255,255,255,0.10);}.sh-footer .sh-footer-widgets a,.sh-footer .sh-footer-widgets li a,.sh-footer .sh-footer-widgets h6 {color: #63666a;}.sh-footer .sh-footer-widgets a:hover,.sh-footer .sh-footer-widgets li a:hover,.sh-footer .sh-footer-widgets h6:hover {color: #47c9e5;}.sh-footer-columns > .widget-item {width: 25%;}.sh-footer .sh-copyrights {background-color: #b7b7b7;color: #0f0f0f;}.sh-footer .sh-copyrights a {color: #0f0f0f;}.sh-footer .sh-copyrights a:hover {color: #c0e3eb!important;}.sh-footer .sh-copyrights-social a {border-left: 1px solid rgba(255,255,255,0.15);}.sh-footer .sh-copyrights-social a:last-child {border-right: 1px solid rgba(255,255,255,0.15);}@media (max-width: 850px) {.sh-footer .sh-copyrights-social a {border: 1px solid rgba(255,255,255,0.15);}}.woocommerce .woocomerce-styling ul.products li {;width: 25%;}.sh-popover-mini {font-family: 'Helvetica'!important;}.sh-popover-mini:not(.sh-popover-mini-dark) {background-color: #47c9e5;}.sh-popover-mini:not(.sh-popover-mini-dark):before {border-color: transparent transparent #47c9e5 #47c9e5!important;}.sh-titlebar {background-color: #fbfbfb;}.sh-titlebar .title-level a,.sh-titlebar .title-level span {color: #97999b!important;}.sh-back-to-top { border-radius: 100px;}.sh-404 {background-image: url(//www.ospasalon.com.mx/wp-content/uploads/2016/06/01.jpg);background-color: #3f3f3f;}body {overflow: hidden;}.sh-page-loader {background-color: #ffffff;}.sk-cube-grid .sk-cube,.sk-folding-cube .sk-cube:before,.sk-spinner > div,.sh-page-loader-style-spinner .object {background-color: #47c9e5!important;}.fw-main-row { padding: 0px 0px 100px 0px !important;}.sh-nav li.menu-item a { line-height: 10px;}.sh-nav li.menu-item li a { line-height: 15px !important; padding: 5px 0 0 15px;}body{ font-family: 'Helvetica'!important; font-weight: 300!important;}h1{ font-family: 'Helvetica'!important; font-weight: 300!important;}h2{ font-family: 'Helvetica'!important; font-weight: 300!important;}h3{ font-family: 'Helvetica'!important; font-weight: 300!important;}h4{ font-family: 'Helvetica'!important; font-weight: 300!important;}h5{ font-family: 'Helvetica'!important; font-weight: 300!important;}h6{ font-family: 'Helvetica'!important; font-weight: 300!important;}p{ font-family: 'Helvetica'!important; font-weight: 300!important;}label{ font-family: 'Helvetica'!important; font-weight: 300!important;}.sh-button { background-color:#ffffff !important; color: #065b6e !important; padding-left: 0px !important; border-radius: 100px; }.side input[type="text"], input[type="password"], input[type="email"], input[type="tel"], select{background:#ccc;line-height:35px!important;}.simpleselect .placeholder{ line-height:18px;}.select2-arrow b:after, .simpleselect .placeholder:after{line-height:36px;}textarea{height:10px;}
+.sh-section-806ce37c175561d889a5bed726db6e5c {padding: 100px 0px 100px 0px;background-color: #ffffff;}.sh-section-overlay-806ce37c175561d889a5bed726db6e5c{z-index: -1000;background: #ffffff;position: absolute;top: 0; bottom: 0; left: 0; right: 0;}.sh-section-overlay-front {z-index: 0;}
+.sh-column-4646f0e0a3a0d8f8c53022fa6b54eb7b {padding: 0px 15px 0px 15px;margin: 0px 0px 0px 0px;}
+.sh-column-4646f0e0a3a0d8f8c53022fa6b54eb7b {padding: 0px 15px 0px 15px;margin: 0px 0px 0px 0px;}
+#empty-space-aaaf87f2d7b5a820ff944e76f8293804 {height: 40px;}
+.sh-column-1e80e9e7267b6eb17acd3cada68ca096 {padding: 0px 15px 0px 15px;margin: 0px 0px 0px 0px;}
+#heading-ee9aced988bc1be5a7d50788007eedd2 {margin: 0px 0px 15px 0px;}#heading-ee9aced988bc1be5a7d50788007eedd2 .sh-heading-content {font-weight: 300!important;color: #065b6e;}#heading-ee9aced988bc1be5a7d50788007eedd2 .sh-heading-content,#heading-ee9aced988bc1be5a7d50788007eedd2 .sh-heading-additional-text {font-family: 'Helvetica'!important;}
+#text-block-bdc1963c862d47900674336f7d3c549c {margin: 0px 0px 15px 0px;}#text-block-bdc1963c862d47900674336f7d3c549c .drop-cap {font-weight: bold;font-size: 50px;display: block;float: left;margin: 8px 10px 0 0;}
+#button-5f1e4afb6b0f383bbaa0f00c9732cbff .sh-button {background-color: #065b6e;color: #ffffff;}#button-5f1e4afb6b0f383bbaa0f00c9732cbff {margin: 0px 0px 15px 0px;}#button-5f1e4afb6b0f383bbaa0f00c9732cbff:not(.sh-button-style-2) .sh-button:hover {}#button-5f1e4afb6b0f383bbaa0f00c9732cbff.sh-button-style-2 .sh-button:after {}#button-5f1e4afb6b0f383bbaa0f00c9732cbff.sh-button-style-2 .sh-button:hover {}
+.sh-column-a2b4d02b05b9e18f0be5a9ed33796ed3 {padding: 0px 15px 0px 15px;margin: 0px 0px 0px 0px;}
+#heading-8e018799171d752adbedf8b4853aab1a {margin: 0px 0px 15px 0px;}#heading-8e018799171d752adbedf8b4853aab1a .sh-heading-content {font-weight: 300!important;color: #065b6e;}#heading-8e018799171d752adbedf8b4853aab1a .sh-heading-content,#heading-8e018799171d752adbedf8b4853aab1a .sh-heading-additional-text {font-family: 'Helvetica'!important;}
+#text-block-5a27a75fd458bad4e73d8b8492c81a92 {margin: 0px 0px 15px 0px;}#text-block-5a27a75fd458bad4e73d8b8492c81a92 .drop-cap {font-weight: bold;font-size: 50px;display: block;float: left;margin: 8px 10px 0 0;}
+#button-dbfc047344b1efa87099fffb639d37e3 .sh-button {background-color: #065b6e;color: #ffffff;}#button-dbfc047344b1efa87099fffb639d37e3 {margin: 0px 0px 15px 0px;}#button-dbfc047344b1efa87099fffb639d37e3:not(.sh-button-style-2) .sh-button:hover {}#button-dbfc047344b1efa87099fffb639d37e3.sh-button-style-2 .sh-button:after {}#button-dbfc047344b1efa87099fffb639d37e3.sh-button-style-2 .sh-button:hover {}
+.sh-column-bf1c7364fd010d143520cafac2b673f8 {padding: 0px 15px 0px 15px;margin: 0px 0px 0px 0px;}
+#heading-1cea2c5ab0c0c967ea34c78a4768ca08 {margin: 0px 0px 15px 0px;}#heading-1cea2c5ab0c0c967ea34c78a4768ca08 .sh-heading-content {font-weight: 300!important;color: #065b6e;}#heading-1cea2c5ab0c0c967ea34c78a4768ca08 .sh-heading-content,#heading-1cea2c5ab0c0c967ea34c78a4768ca08 .sh-heading-additional-text {font-family: 'Helvetica'!important;}
+#text-block-df0c1df7b9a8d4f46f0d2fd98ca21dcf {margin: 0px 0px 15px 0px;}#text-block-df0c1df7b9a8d4f46f0d2fd98ca21dcf .drop-cap {font-weight: bold;font-size: 50px;display: block;float: left;margin: 8px 10px 0 0;}
+#button-a21a6efc168a8243c5df258b35805934 .sh-button {background-color: #065b6e;color: #ffffff;}#button-a21a6efc168a8243c5df258b35805934 {margin: 0px 0px 15px 0px;}#button-a21a6efc168a8243c5df258b35805934:not(.sh-button-style-2) .sh-button:hover {}#button-a21a6efc168a8243c5df258b35805934.sh-button-style-2 .sh-button:after {}#button-a21a6efc168a8243c5df258b35805934.sh-button-style-2 .sh-button:hover {}
+</style>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.ospasalon.com.mx/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ospasalon.com.mx/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ospasalon.com.mx/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="canonical" href="http://www.ospasalon.com.mx/" />
+<link rel='shortlink' href='http://www.ospasalon.com.mx/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.ospasalon.com.mx/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ospasalon.com.mx%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.ospasalon.com.mx/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.ospasalon.com.mx%2F&#038;format=xml" />
+<meta name="generator" content="Powered by Slider Revolution 5.2.5.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+</head>
+<body class="home page-template-default page page-id-6 sh-ipad-landscape-full-navigation sh-body-header-sticky">
+
+
+	<div class="sh-page-loader sh-table sh-page-loader-style-spinner">
+		<div class="sh-table-cell">
+			
+			
+				<div id="loading-center-absolute">
+					<div class="object" id="object_one"></div>
+					<div class="object" id="object_two"></div>
+					<div class="object" id="object_three"></div>
+				</div>
+
+			
+		</div>
+	</div>
+
+
+	
+	<div id="page-container" class="">
+		
+
+					<header class="primary-mobile">
+				
+<div id="header-mobile" class="sh-header-mobile">
+	<div class="sh-header-mobile-navigation">
+		<div class="container">
+			<div class="sh-table">
+				<div class="sh-table-cell sh-group">
+
+										        <div class="header-logo">
+            <a href="http://www.ospasalon.com.mx/" class="header-logo-container sh-table-small">
+                <div class="sh-table-cell">
+
+                    <img class="sh-standard-logo" src="//www.ospasalon.com.mx/wp-content/uploads/2016/06/logo.png" alt="O.SPA.SALÓN" height=&quot;30&quot; />
+                    <img class="sh-sticky-logo" src="//www.ospasalon.com.mx/wp-content/uploads/2016/06/logo.png" alt="O.SPA.SALÓN" height=&quot;30&quot; />
+                    <img class="sh-light-logo" src="//www.ospasalon.com.mx/wp-content/uploads/2016/06/logo.png" alt="O.SPA.SALÓN" height=&quot;30&quot; />
+
+                </div>
+            </a>
+        </div>
+
+    
+				</div>
+				<div class="sh-table-cell">
+
+										<nav id="header-navigation-mobile" class="header-standard-position">
+						<div class="sh-nav-container">
+							<ul class="sh-nav">
+
+															    
+        <li class="menu-item sh-nav-dropdown">
+            <a href="#">
+                <div class="sh-table-full">
+                    <div class="sh-table-cell">
+                        <span class="c-hamburger c-hamburger--htx">
+                            <span>Toggle menu</span>
+                        </span>
+                    </div>
+                </div>
+            </a>
+        </li>
+							</ul>
+						</div>
+					</nav>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<nav class="sh-header-mobile-dropdown">
+		<div class="container sh-nav-container">
+			<ul class="sh-nav-mobile">
+				<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37"><a href="http://www.ospasalon.com.mx/spa/" >SPA</a>
+<ul class="sub-menu">
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://www.ospasalon.com.mx/spa/corporales/" >CORPORALES</a></li>
+	<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.ospasalon.com.mx/spa/faciales/" >FACIALES</a></li>
+	<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://www.ospasalon.com.mx/spa/masajes/" >MASAJES</a></li>
+</ul>
+</li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-36"><a href="http://www.ospasalon.com.mx/salon/" >SALÓN</a>
+<ul class="sub-menu">
+	<li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018"><a href="http://www.ospasalon.com.mx/salon/manicure/" >MANICURE</a></li>
+	<li id="menu-item-1020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1020"><a href="http://www.ospasalon.com.mx/salon/pedicure/" >PEDICURE</a></li>
+	<li id="menu-item-1017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1017"><a href="http://www.ospasalon.com.mx/salon/depilacio-n/" >DEPILACIÓN</a></li>
+	<li id="menu-item-1019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1019"><a href="http://www.ospasalon.com.mx/salon/maquillaje/" >MAQUILLAJE</a></li>
+	<li id="menu-item-1022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1022"><a href="http://www.ospasalon.com.mx/salon/tratamiento-s-capilares/" >TRATAMIENTOS CAPILARES</a></li>
+	<li id="menu-item-1016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1016"><a href="http://www.ospasalon.com.mx/salon/co-rtes/" >CORTES</a></li>
+	<li id="menu-item-1021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1021"><a href="http://www.ospasalon.com.mx/salon/peinado-s/" >PEINADOS</a></li>
+	<li id="menu-item-1015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1015"><a href="http://www.ospasalon.com.mx/salon/colo-rimetria/" >COLORIMETRÍA</a></li>
+</ul>
+</li>
+<li id="menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-922"><a href="http://www.ospasalon.com.mx/barberia/" >BARBERÍA</a>
+<ul class="sub-menu">
+	<li id="menu-item-1013" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1013"><a href="http://www.ospasalon.com.mx/barberia/barberia-master/" >BARBERÍA MASTER</a></li>
+	<li id="menu-item-1012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1012"><a href="http://www.ospasalon.com.mx/barberia/barberia-master-plus/" >BARBERÍA MASTER PLUS</a></li>
+	<li id="menu-item-1011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011"><a href="http://www.ospasalon.com.mx/barberia/barberia-senior/" >BARBERÍA SENIOR</a></li>
+	<li id="menu-item-1010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1010"><a href="http://www.ospasalon.com.mx/barberia/barberia-ritual-o/" >BARBERÍA RITUAL O.</a></li>
+	<li id="menu-item-1009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1009"><a href="http://www.ospasalon.com.mx/barberia/arreglo-de-bigote/" >ARREGLO DE BIGOTE</a></li>
+	<li id="menu-item-1008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1008"><a href="http://www.ospasalon.com.mx/barberia/tinte-en-bigote/" >TINTE EN BIGOTE</a></li>
+	<li id="menu-item-1007" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1007"><a href="http://www.ospasalon.com.mx/barberia/tinte-o-pigmentaciones-en-barba/" >TINTE O PIGMENTACIONES EN BARBA</a></li>
+</ul>
+</li>
+<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-102"><a href="http://www.ospasalon.com.mx/circulo/" >CERTIFICADO Y<br /> CLIENTE CONSENTIDO</a>
+<ul class="sub-menu">
+	<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://www.ospasalon.com.mx/certificado/" >CERTIFICADO</a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.ospasalon.com.mx/cliente-consentido/" >CLIENTE CONSENTIDO</a></li>
+</ul>
+</li>
+<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34"><a href="http://www.ospasalon.com.mx/nosotro-s/" >NOSOTROS</a>
+<ul class="sub-menu">
+	<li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.ospasalon.com.mx/nosotro-s/instalacio-nes/" >INSTALACIONES</a></li>
+	<li id="menu-item-690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a href="http://www.ospasalon.com.mx/nosotro-s/tour-virtual/" >TOUR VIRTUAL</a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://www.ospasalon.com.mx/nosotro-s/marcas/" >MARCAS</a></li>
+</ul>
+</li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="http://www.ospasalon.com.mx/contacto/" >CONTACTO</a>
+<ul class="sub-menu">
+	<li id="menu-item-310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="http://www.ospasalon.com.mx/ubicacion/" >UBICACIÓN</a></li>
+	<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://www.ospasalon.com.mx/contacto/bolsa-de-trabajo/" >BOLSA DE TRABAJO</a></li>
+</ul>
+</li>
+<li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-986"><a href="http://www.ospasalon.com.mx/agenda-tu-cita/" >AGENDA TU CITA</a></li>
+<li id="menu-item-1079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-1079"><a href="http://www.ospasalon.com.mx/" >Home</a></li>
+			</ul>
+		</div>
+
+		<div class="container sh-nav-container">
+					</div>
+
+					<div class="header-mobile-social-media">
+				<a href="http://twitter.com/OSpaSalon"  target = "_blank"  class="social-media-twitter">
+                <i class="icon-social-twitter"></i>
+            </a><a href="https://www.facebook.com/OSPASALON/"  target = "_blank"  class="social-media-facebook">
+                <i class="icon-social-facebook"></i>
+            </a><a href="http://Instagram.com/ospasalon"  target = "_blank"  class="social-media-instagram">
+                <i class="icon-social-instagram"></i>
+            </a><a href="http://open.spotify.com/user/o.spa.salon"  target = "_blank"  class="social-media-wordpress">
+                <i class="fa fa-spotify"></i>
+            </a><a href="https://www.snapchat.com/add/o.spasalon"  target = "_blank"  class="social-media-wordpress">
+                <i class="icon-ghost"></i>
+            </a><div class="sh-clear"></div>			</div>
+			</nav>
+</div>			</header>
+			<header class="primary-desktop">
+				
+<div class="sh-header-height">
+	<div class="sh-header sh-header-1 sh-sticky-header">
+		<div class="container">
+			<div class="sh-table">
+				<div class="sh-table-cell sh-group">
+
+										        <div class="header-logo">
+            <a href="http://www.ospasalon.com.mx/" class="header-logo-container sh-table-small">
+                <div class="sh-table-cell">
+
+                    <img class="sh-standard-logo" src="//www.ospasalon.com.mx/wp-content/uploads/2016/06/logo.png" alt="O.SPA.SALÓN" height=&quot;30&quot; />
+                    <img class="sh-sticky-logo" src="//www.ospasalon.com.mx/wp-content/uploads/2016/06/logo.png" alt="O.SPA.SALÓN" height=&quot;30&quot; />
+                    <img class="sh-light-logo" src="//www.ospasalon.com.mx/wp-content/uploads/2016/06/logo.png" alt="O.SPA.SALÓN" height=&quot;30&quot; />
+
+                </div>
+            </a>
+        </div>
+
+    
+				</div>
+				<div class="sh-table-cell">
+
+										<nav id="header-navigation" class="header-standard-position">
+													<div class="sh-nav-container"><ul id="menu-menu-1" class="sh-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-37"><a href="http://www.ospasalon.com.mx/spa/" >SPA</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://www.ospasalon.com.mx/spa/corporales/" >CORPORALES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://www.ospasalon.com.mx/spa/faciales/" >FACIALES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://www.ospasalon.com.mx/spa/masajes/" >MASAJES</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-36"><a href="http://www.ospasalon.com.mx/salon/" >SALÓN</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018"><a href="http://www.ospasalon.com.mx/salon/manicure/" >MANICURE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1020"><a href="http://www.ospasalon.com.mx/salon/pedicure/" >PEDICURE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1017"><a href="http://www.ospasalon.com.mx/salon/depilacio-n/" >DEPILACIÓN</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1019"><a href="http://www.ospasalon.com.mx/salon/maquillaje/" >MAQUILLAJE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1022"><a href="http://www.ospasalon.com.mx/salon/tratamiento-s-capilares/" >TRATAMIENTOS CAPILARES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1016"><a href="http://www.ospasalon.com.mx/salon/co-rtes/" >CORTES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1021"><a href="http://www.ospasalon.com.mx/salon/peinado-s/" >PEINADOS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1015"><a href="http://www.ospasalon.com.mx/salon/colo-rimetria/" >COLORIMETRÍA</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-922"><a href="http://www.ospasalon.com.mx/barberia/" >BARBERÍA</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1013"><a href="http://www.ospasalon.com.mx/barberia/barberia-master/" >BARBERÍA MASTER</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1012"><a href="http://www.ospasalon.com.mx/barberia/barberia-master-plus/" >BARBERÍA MASTER PLUS</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1011"><a href="http://www.ospasalon.com.mx/barberia/barberia-senior/" >BARBERÍA SENIOR</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1010"><a href="http://www.ospasalon.com.mx/barberia/barberia-ritual-o/" >BARBERÍA RITUAL O.</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1009"><a href="http://www.ospasalon.com.mx/barberia/arreglo-de-bigote/" >ARREGLO DE BIGOTE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1008"><a href="http://www.ospasalon.com.mx/barberia/tinte-en-bigote/" >TINTE EN BIGOTE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1007"><a href="http://www.ospasalon.com.mx/barberia/tinte-o-pigmentaciones-en-barba/" >TINTE O PIGMENTACIONES EN BARBA</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-102"><a href="http://www.ospasalon.com.mx/circulo/" >CERTIFICADO Y<br /> CLIENTE CONSENTIDO</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://www.ospasalon.com.mx/certificado/" >CERTIFICADO</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="http://www.ospasalon.com.mx/cliente-consentido/" >CLIENTE CONSENTIDO</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-34"><a href="http://www.ospasalon.com.mx/nosotro-s/" >NOSOTROS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://www.ospasalon.com.mx/nosotro-s/instalacio-nes/" >INSTALACIONES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-690"><a href="http://www.ospasalon.com.mx/nosotro-s/tour-virtual/" >TOUR VIRTUAL</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://www.ospasalon.com.mx/nosotro-s/marcas/" >MARCAS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="http://www.ospasalon.com.mx/contacto/" >CONTACTO</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-310"><a href="http://www.ospasalon.com.mx/ubicacion/" >UBICACIÓN</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="http://www.ospasalon.com.mx/contacto/bolsa-de-trabajo/" >BOLSA DE TRABAJO</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-986"><a href="http://www.ospasalon.com.mx/agenda-tu-cita/" >AGENDA TU CITA</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-1079"><a href="http://www.ospasalon.com.mx/" >Home</a></li>
+</ul></div>											</nav>
+
+				</div>		
+			</div>
+		</div>
+
+		<div id="header-search" class="sh-header-search">
+	<div class="sh-table-full">
+		<div class="sh-table-cell">
+
+			<div class="line-test">
+				<div class="container">
+
+					<form method="get" class="sh-header-search-form" action="http://www.ospasalon.com.mx/">
+						<input type="search" class="sh-header-search-input" placeholder="Search Here.." value="" name="s" required />
+						<button type="submit" class="sh-header-search-submit">
+							<i class="icon-magnifier"></i>
+						</button>
+						<div class="sh-header-search-close close-header-search">
+							<i class="ti-close"></i>
+						</div>
+					</form> 
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+	</div>
+</div>			</header>
+		
+
+		
+
+			<div id="wrapper">
+				<div class="content-container sh-page-layout-full"">
+				
+
+				
+
+	<div id="content" class="page-content ">
+
+		<div class="fw-page-builder-content">
+<section class="sh-section sh-section-806ce37c175561d889a5bed726db6e5c fw-main-row">
+	
+		
+	<div class="sh-section-container container">
+		<div class="fw-row">
+	
+<div class="sh-column sh-column-4646f0e0a3a0d8f8c53022fa6b54eb7b fw-col-xs-12" >
+
+	
+	<div class="sh-column-wrapper">
+		
+<div class="sh-revslider" id="revslider-cfb2b54ed649991ffadedc02bdf98fc6">
+	
+<div id="rev_slider_6_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.2.5.3 fullwidth mode -->
+	<div id="rev_slider_6_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.5.3">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-26" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/Captura-de-pantalla-2018-03-02-a-las-19.13.17-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/Captura-de-pantalla-2018-03-02-a-las-19.13.17.png"  alt="" title="Captura de pantalla 2018-03-02 a la(s) 19.13.17"  width="807" height="800" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-27" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/ID31780-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/ID31780.jpg"  alt="" title="_ID31780"  width="2000" height="1333" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-28" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/ID31904-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/ID31904.jpg"  alt="" title="_ID31904"  width="1361" height="1333" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-29" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/ID31864-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/ID31864.jpg"  alt="" title="_ID31864"  width="1439" height="1333" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-30" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/ID31882-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/ID31882.jpg"  alt="" title="_ID31882"  width="1333" height="1368" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-31" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/Captura-de-pantalla-2018-07-10-a-las-15.48.08-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/Captura-de-pantalla-2018-07-10-a-las-15.48.08.png"  alt="" title="Captura de pantalla 2018-07-10 a la(s) 15.48.08"  width="937" height="624" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-32" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/Captura-de-pantalla-2018-07-10-a-las-15.48.27-100x50.png"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2018/07/Captura-de-pantalla-2018-07-10-a-las-15.48.27.png"  alt="" title="Captura de pantalla 2018-07-10 a la(s) 15.48.27"  width="937" height="625" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-14" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-1.jpg"  alt="" title="Banner OSPA 1"  width="2127" height="1189" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-15" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-8-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-8.jpg"  alt="" title="Banner OSPA 8"  width="2127" height="1189" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-16" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-4-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-4.jpg"  alt="" title="Banner OSPA 4"  width="2127" height="1189" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-18" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-3-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-3.jpg"  alt="" title="Banner OSPA 3"  width="2127" height="1189" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-20" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-6-100x50.jpg"  data-delay="3010"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-6.jpg"  alt="" title="Banner OSPA 6"  width="2127" height="1189" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-13" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-9-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-9.jpg"  alt="" title="Banner OSPA 9"  width="2127" height="1189" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-22" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-5-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.ospasalon.com.mx/wp-content/uploads/2016/06/Banner-OSPA-5.jpg"  alt="" title="Banner OSPA 5"  width="2127" height="1189" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>
+					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A%23rev_slider_6_1%20.zeus%20.tp-bullet%20%7B%0A%20%20%20%20%20box-sizing%3Acontent-box%3B%20-webkit-box-sizing%3Acontent-box%3B%20border-radius%3A50%25%3B%0A%20%20%20%20%20%20background-color%3A%20rgba%280%2C%200%2C%200%2C%200%29%3B%0A%20%20%20%20%20%20-webkit-transition%3A%20opacity%200.3s%20ease%3B%0A%20%20%20%20%20%20transition%3A%20opacity%200.3s%20ease%3B%0A%20%20%20%20width%3A13px%3Bheight%3A13px%3B%0A%20%20%20%20border%3A2px%20solid%20rgb%28255%2C%20255%2C%20255%29%3B%0A%20%7D%0A%23rev_slider_6_1%20.zeus%20.tp-bullet%3Aafter%20%7B%0A%20%20content%3A%20%22%22%3B%0A%20%20position%3A%20absolute%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20left%3A%200%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20rgb%28255%2C%20255%2C%20255%29%3B%0A%20%20-webkit-transform%3A%20scale%280%29%3B%0A%20%20transform%3A%20scale%280%29%3B%0A%20%20-webkit-transform-origin%3A%2050%25%2050%25%3B%0A%20%20transform-origin%3A%2050%25%2050%25%3B%0A%20%20-webkit-transition%3A%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20transform%200.3s%20ease%3B%0A%7D%0A%23rev_slider_6_1%20.zeus%20.tp-bullet%3Ahover%3Aafter%2C%0A%23rev_slider_6_1%20.zeus%20.tp-bullet.selected%3Aafter%7B%0A%20%20%20%20-webkit-transform%3A%20scale%281.2%29%3B%0A%20%20transform%3A%20scale%281.2%29%3B%0A%7D%0A%20%20%0A%20%23rev_slider_6_1%20.zeus%20.tp-bullet-image%2C%0A%20%23rev_slider_6_1%20.zeus%20.tp-bullet-imageoverlay%7B%0A%20%20%20%20%20%20%20%20width%3A135px%3B%0A%20%20%20%20%20%20%20%20height%3A60px%3B%0A%20%20%20%20%20%20%20%20position%3Aabsolute%3B%0A%20%20%20%20%20%20%20%20background%3A%23000%3B%0A%20%20%20%20%20%20%20%20background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%20%20%20%20%20%20%20%20bottom%3A13px%3B%0A%20%20%20%20%20%20%20%20margin-bottom%3A10px%3B%0A%20%20%20%20%20%20%20%20transform%3AtranslateX%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3AtranslateX%28-50%25%29%3B%0A%20%20%20%20%20%20%20%20box-sizing%3Aborder-box%3B%0A%20%20%20%20%20%20%20%20background-size%3Acover%3B%0A%20%20%20%20%20%20%20%20background-position%3Acenter%20center%3B%0A%20%20%20%20%20%20%20%20visibility%3Ahidden%3B%0A%20%20%20%20%20%20%20%20opacity%3A0%3B%0A%20%20%20%20%20%20%20%20%20-webkit-backface-visibility%3A%20hidden%3B%20%0A%20%20%20%20%20%20%20%20backface-visibility%3A%20hidden%3B%0A%20%20%20%20%20%20%20%20-webkit-transform-origin%3A%2050%25%2050%25%3B%0A%20%20%20%20transform-origin%3A%2050%25%2050%25%3B%0A%20%20%20%20%20%20-webkit-transition%3A%20all%200.3s%20ease%3B%0A%20%20%20%20%20%20transition%3A%20all%200.3s%20ease%3B%0A%20%20%20%20%20%20%20%20border-radius%3A4px%3B%0A%7D%0A%20%20%20%20%20%20%20%20%20%20%0A%0A%23rev_slider_6_1%20.zeus%20.tp-bullet-title%2C%0A%23rev_slider_6_1%20.zeus%20.tp-bullet-imageoverlay%20%7B%0A%20%20%20%20%20%20%20%20z-index%3A2%3B%0A%20%20%20%20%20%20%20%20-webkit-transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20transform%3AtranslateX%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3AtranslateX%28-50%25%29%3B%0A%7D%20%20%20%20%20%0A%23rev_slider_6_1%20.zeus%20.tp-bullet-title%20%7B%20%0A%20%20%20%20%20%20%20%20color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%20%20%20%20%20%20%20%20text-align%3Acenter%3B%0A%20%20%20%20%20%20%20%20line-height%3A15px%3B%0A%20%20%20%20%20%20%20%20font-size%3A13px%3B%0A%20%20%20%20%20%20%20%20font-weight%3A600%3B%20%20%0A%20%20%20%20%20%20%20%20z-index%3A3%3B%0A%20%20%20%20%20%20%20%20%20visibility%3Ahidden%3B%0A%20%20%20%20%20%20%20%20opacity%3A0%3B%0A%20%20%20%20%20%20%20%20%20-webkit-backface-visibility%3A%20hidden%3B%20%0A%20%20%20%20%20%20%20%20backface-visibility%3A%20hidden%3B%0A%20%20%20%20%20%20%20%20-webkit-transform-origin%3A%2050%25%2050%25%3B%0A%20%20%20%20transform-origin%3A%2050%25%2050%25%3B%0A%20%20%20%20%20%20-webkit-transition%3A%20all%200.3s%20ease%3B%0A%20%20%20%20%20%20transition%3A%20all%200.3s%20ease%3B%0A%20%20%20%20%20%20%20%20position%3Aabsolute%3B%0A%20%20%20%20%20%20%20%20bottom%3A45px%3B%0A%20%20%20%20%20%20%20%20width%3A135px%3B%0A%20%20%20%20%20%20vertical-align%3Amiddle%3B%0A%20%20%20%20%20%20%20%0A%7D%0A%20%20%20%20%20%20%0A%23rev_slider_6_1%20.zeus%20.tp-bullet%3Ahover%20.tp-bullet-title%2C%0A%23rev_slider_6_1%20.zeus%20.tp-bullet%3Ahover%20.tp-bullet-image%2C%0A%23rev_slider_6_1%20.zeus%20.tp-bullet%3Ahover%20.tp-bullet-imageoverlay%7B%0A%20%20%20%20%20%20opacity%3A1%3B%0A%20%20%20%20%20%20visibility%3Avisible%3B%0A%20%20%20%20-webkit-transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20%20%20%20%20transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%7D%0A%0A%0A%0A%0A%2F%2A%20VERTICAL%20RIGHT%20%2A%2F%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet-image%2C%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet-imageoverlay%7B%0A%20%20bottom%3Aauto%3B%0A%20%20margin-right%3A10px%3B%0A%20%20margin-bottom%3A0px%3B%0A%20%20right%3A13px%3B%0A%20%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20%0A%7D%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%0A%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet-title%2C%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet-imageoverlay%20%7B%0A%20%20%20%20%20%20%20%20z-index%3A2%3B%0A%20%20%20%20%20%20%20%20-webkit-transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%20%20%20%0A%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet-title%20%7B%0A%20%20%20%20%20bottom%3Aauto%3B%0A%20%20%20%20%20right%3A100%25%3B%0A%20%20%20%20%20margin-right%3A10px%3B%0A%7D%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-title%2C%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-image%2C%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-imageoverlay%20%7B%0A%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%0A%0A%0A%0A%2F%2A%20VERTICAL%20LEFT%20%2A%2F%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-image%2C%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-imageoverlay%7B%0A%20%20bottom%3Aauto%3B%0A%20%20margin-left%3A10px%3B%0A%20%20margin-bottom%3A0px%3B%0A%20%20left%3A13px%3B%0A%20%20transform%3A%20%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20%0A%7D%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-title%2C%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-imageoverlay%20%7B%0A%20%20%20%20%20%20%20%20z-index%3A2%3B%0A%20%20%20%20%20%20%20%20-webkit-transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20transform%3AtranslateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3AtranslateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%20%20%20%0A%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-title%20%7B%0A%20%20%20%20%20bottom%3Aauto%3B%0A%20%20%20%20%20left%3A100%25%3B%0A%20%20%20%20%20margin-left%3A10px%3B%0A%7D%0A%0A%2F%2A%20HORIZONTAL%20TOP%20%2A%2F%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-image%2C%0A%23rev_slider_6_1%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-imageoverlay%7B%0A%20%20bottom%3Aauto%3B%0A%20%20top%3A13px%3B%0A%20%20margin-top%3A10px%3B%0A%20%20margin-bottom%3A0px%3B%0A%20%20left%3A0px%3B%0A%20%20transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20-webkit-transform%3AtranslateX%280px%29%20translateX%28-50%25%29%3B%0A%20%20%0A%7D%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20%0A%20%20transform%3A%20scale%281%29%20translateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20scale%281%29%20translateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20%0A%7D%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-title%2C%0A%23rev_slider_6_1%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-imageoverlay%20%7B%0A%20%20%20%20%20%20%20%20z-index%3A2%3B%0A%20%20%20%20%20%20%20%20-webkit-transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%0A%7D%20%20%20%0A%0A%0A%23rev_slider_6_1%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-title%20%7B%0A%20%20%20%20%20bottom%3Aauto%3B%0A%20%20%20%20%20top%3A13px%3B%0A%20%20%20%20%20margin-top%3A20px%3B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div>	</div>
+</div>
+</div>
+
+<div class="fw-row">
+	
+<div class="sh-column sh-column-4646f0e0a3a0d8f8c53022fa6b54eb7b fw-col-xs-12" >
+
+	
+	<div class="sh-column-wrapper">
+		
+<div class="sh-empty-space" id="empty-space-aaaf87f2d7b5a820ff944e76f8293804"></div>	</div>
+</div>
+</div>
+
+<div class="fw-row">
+	
+<div class="sh-column sh-column-1e80e9e7267b6eb17acd3cada68ca096 fw-col-xs-12 fw-col-sm-4" >
+
+	
+	<div class="sh-column-wrapper">
+		
+<div class="sh-heading" id="heading-ee9aced988bc1be5a7d50788007eedd2">
+	<h1 class="sh-heading-content size-default text-left">
+		CERTIFICADO.S	</h1>
+</div>
+<div id="text-block-bdc1963c862d47900674336f7d3c549c" class="sh-text-block">
+	<p>Adquiere el CertificadO. de Regalo para esa persona tan especial en tu vida.</p></div>
+<div id="button-5f1e4afb6b0f383bbaa0f00c9732cbff" class="sh-button-container sh-button-style-2">
+	<a href="/certificado/" target="_self" class="sh-button sh-button-small sh-button-icon-left">
+
+					<span class="sh-button-icon">
+				<i class="ti-bag"></i>
+			</span>
+		
+					<span class="sh-button-text">
+				Más información			</span>
+		
+		
+	</a>
+	</div>	</div>
+</div>
+
+<div class="sh-column sh-column-a2b4d02b05b9e18f0be5a9ed33796ed3 fw-col-xs-12 fw-col-sm-4" >
+
+	
+	<div class="sh-column-wrapper">
+		
+<div class="sh-heading" id="heading-8e018799171d752adbedf8b4853aab1a">
+	<h1 class="sh-heading-content size-default text-left">
+		CLIENTE CONSENTIDO.	</h1>
+</div>
+<div id="text-block-5a27a75fd458bad4e73d8b8492c81a92" class="sh-text-block">
+	<p>Queremos consentirte, bienvenido a O.SPA.SALÓN.</p></div>
+<div id="button-dbfc047344b1efa87099fffb639d37e3" class="sh-button-container sh-button-style-2">
+	<a href="/cliente-consentido/" target="_self" class="sh-button sh-button-small sh-button-icon-left">
+
+					<span class="sh-button-icon">
+				<i class="ti-heart"></i>
+			</span>
+		
+					<span class="sh-button-text">
+				Quiero conocer más			</span>
+		
+		
+	</a>
+	</div>	</div>
+</div>
+
+<div class="sh-column sh-column-bf1c7364fd010d143520cafac2b673f8 fw-col-xs-12 fw-col-sm-4" >
+
+	
+	<div class="sh-column-wrapper">
+		
+<div class="sh-heading" id="heading-1cea2c5ab0c0c967ea34c78a4768ca08">
+	<h1 class="sh-heading-content size-default text-left">
+		SALÓN	</h1>
+</div>
+<div id="text-block-df0c1df7b9a8d4f46f0d2fd98ca21dcf" class="sh-text-block">
+	<p>¿Ya conoces todos nuestros servicios?</p></div>
+<div id="button-a21a6efc168a8243c5df258b35805934" class="sh-button-container sh-button-style-2">
+	<a href="/salon/" target="_self" class="sh-button sh-button-small sh-button-icon-left">
+
+					<span class="sh-button-icon">
+				<i class="ti-direction-alt"></i>
+			</span>
+		
+					<span class="sh-button-text">
+				Quiero conocer más servicios			</span>
+		
+		
+	</a>
+	</div>	</div>
+</div>
+</div>
+
+	</div>
+</section></div>
+
+				<div class="sh-clear"></div>
+
+		
+	</div>
+	
+
+		</div>
+
+		<footer class="sh-footer">
+			
+				<div class="sh-footer-widgets">
+					<div class="container">
+						<div class="sh-footer-columns">
+							<div id="text-6" class="widget-item widget_text"><h3 class="widget-title">O.SIERRA MADRE</h3>			<div class="textwidget"><div class="sh-contacts-widget-item">
+<i class="icon-map"></i>
+				Plaza GM3 piso 5,
+Gómez Morín 1105, S.P.G.G.			
+</div>
+<div class="sh-contacts-widget-item">
+				<i class="icon-phone"></i>
+				<a href="tel:8183032700">   (81) 8303.2700</a>			
+</div>
+
+<div class="sh-contacts-widget-item">
+                <i class="fa fa-whatsapp"></i>
+            <a href="tel:+5218117633849">(81) 1763.3849</a>	
+</div>
+
+
+<div class="sh-contacts-widget-item">
+				<i class="icon-envelope"></i>
+				o.sierramadre@ospasalon.com.mx 			</div></div>
+		</div><div id="text-7" class="widget-item widget_text"><h3 class="widget-title">O.VALLE ORIENTE</h3>			<div class="textwidget"><div class="sh-contacts-widget-item">
+<i class="icon-map"></i>
+				Metropolitan Center, Piso 4, 
+Lázaro Cárdenas 2400, S.P.G.G. 
+www.metropolitancenter.mx
+</div>
+<div class="sh-contacts-widget-item">
+				<i class="icon-phone"></i>
+				<a href="tel:8183350005">(81) 8335.0005</a>			
+</div>
+
+<div class="sh-contacts-widget-item">
+                <i class="fa fa-whatsapp"></i>
+            <a href="tel:+5218117629314">(81) 1762.9314</a>	
+</div>
+
+<div class="sh-contacts-widget-item">
+				<i class="icon-envelope"></i>
+				o.valleoriente@ospasalon.com.mx  			</div></div>
+		</div><div id="text-8" class="widget-item widget_text"><h3 class="widget-title">HORARIOS</h3>			<div class="textwidget"><div class="sh-contacts-widget-item">
+	<i class="icon-clock"></i>
+	De lunes a jueves de 9 a 8<br/> 
+	viernes y sábado de 9 a 9<br/> 
+	y domingo de 11 a 8
+</div>
+</div>
+		</div><div id="text-3" class="widget-item widget_text"><h3 class="widget-title">TÉRMINOS Y CONDICIONES</h3>			<div class="textwidget"><a href="/terminos-y-condiciones">Términos y Condiciones / Aviso de Privacidad</a></div>
+		</div>						</div>
+					</div>
+				</div>
+
+							<div class="sh-copyrights">
+		<div class="container container-padding">
+			
+				<div class="sh-copyrights-style1">
+					<div class="sh-table-full">
+													<div class="sh-table-cell">
+								
+<div class="sh-copyrights-logo">
+	<img src="//www.ospasalon.com.mx/wp-content/uploads/2016/06/favicon.png" class="sh-copyrights-image" alt="" />
+</div>							</div>
+												<div class="sh-table-cell">
+							
+<div class="sh-copyrights-text">
+	<span class="developer-copyrights  sh-hidden">
+		WordPress Theme built by <a href="http://shufflehound.com" target="blank"><strong>Shufflehound</strong>.</a>
+	</span>
+	<span>O.SPA.SALÓN ® Derechos Reservados 2016</span>
+</div>						</div>
+					</div>
+				</div>
+									<div class="sh-copyrights-style1" style="float: right;">
+						<div class="sh-table-cell">
+							<div class="sh-copyrights-social">
+								<a href="http://twitter.com/OSpaSalon"  target = "_blank"  class="social-media-twitter">
+                <i class="icon-social-twitter"></i>
+            </a><a href="https://www.facebook.com/OSPASALON/"  target = "_blank"  class="social-media-facebook">
+                <i class="icon-social-facebook"></i>
+            </a><a href="http://Instagram.com/ospasalon"  target = "_blank"  class="social-media-instagram">
+                <i class="icon-social-instagram"></i>
+            </a><a href="http://open.spotify.com/user/o.spa.salon"  target = "_blank"  class="social-media-wordpress">
+                <i class="fa fa-spotify"></i>
+            </a><a href="https://www.snapchat.com/add/o.spasalon"  target = "_blank"  class="social-media-wordpress">
+                <i class="icon-ghost"></i>
+            </a>							</div>
+						</div>
+					</div>
+				
+			
+		</div>
+	</div>		</footer>
+	</div>
+
+
+	
+
+	<div class="sh-back-to-top sh-back-to-top1">
+		<i class="icon-arrow-up"></i>
+	</div>
+
+</div>
+
+		<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.ospasalon.com.mx\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.5.3' defer='defer'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.5.3' defer='defer'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/superfish.js?ver=1.7.5'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/bootstrap.min.js?ver=3.3.4'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/wow.min.js?ver=1.2.2'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.vide.js?ver=0.3.7'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.resize.sensor.js?ver=0.3'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/slick.min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/lightcase.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/typed.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jarallax.js?ver=1.5.2'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jarallax-video.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jssocials.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/isotope.pkgd.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.counterup.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.waypoints.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/velocity.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.viewportChecker.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.simpleselect.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.hoverdir.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.actual.min.js?ver=1.0.16'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/jquery.cookie.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jevelin = {"page_loader":"1","notice":"","header_animation_dropdown_delay":"1000","header_animation_dropdown":"easeOutQuint","header_animation_dropdown_speed":"300","lightbox_woocommerce":"","lightbox_opacity":"0.88","lightbox_transition":"elastic","page_numbers_prev":"Previous","page_numbers_next":"Next","rtl_support":"","footer_parallax":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-content/themes/jevelin/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.ospasalon.com.mx/wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_6_1');
+					e.gridwidth = [1240];
+					e.gridheight = [800];
+							
+					e.sliderLayout = "fullwidth";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi6;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_6_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_6_1");
+				}else{
+					revapi6 = tpj("#rev_slider_6_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//www.ospasalon.com.mx/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+							onHoverStop:"off",
+							arrows: {
+								style:"hesperiden",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:false,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								}
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:false,
+								style:"zeus",
+								hide_onleave:false,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:20,
+								space:5,
+								tmp:'<span class="tp-bullet-image"></span><span class="tp-bullet-imageoverlay"></span><span class="tp-bullet-title">{{title}}</span>'
+							}
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1240,
+						gridheight:800,
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner0",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+			<script type="text/javascript"> jQuery(document).ready(function ($) { "use strict"; }); </script>
+</body>
+</html>
